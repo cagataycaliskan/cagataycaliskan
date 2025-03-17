@@ -5,8 +5,8 @@ I am Cagatay Caliskan and I work as Front-end Developer.
 <p/>
 
 ### Contact with me
-<a href="https://www.linkedin.com/in/cagataycaliskan/" target="_blank" rel="nofollow"><img alt="tolunay-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:cagataycaliskan98@gmail.com" target="_blank" rel="nofollow"><img alt="tolunay-mail" src="https://img.shields.io/badge/Outlook-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cagataycaliskan/" target="_blank" rel="nofollow"><img alt="cagatay-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:cagataycaliskan98@gmail.com" target="_blank" rel="nofollow"><img alt="cagatay-mail" src="https://img.shields.io/badge/Outlook-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 
 ## 🛠 Technologies & Tools
 
